@@ -1,0 +1,11 @@
+[project]
+name = "x32dbg-mcp"
+version = "0.1.0"
+description = "Your project description"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = [
+    "x32dbg>=1.1.0",
+    "mcp>=1.6.0",
+]
