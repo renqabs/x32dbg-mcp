@@ -6,3 +6,6 @@
 ```DEBUGGER_IP``` : 默认值```127.0.0.1```
 
 ```DEBUGGER_PORT``` : 默认值```6589```
+
+以下是LyScript插件作者实现的MCP(压缩包中包含LyScript和MCP)，详细安装、用法请移步大佬网站
+[LyScript MCP组件包](https://lyscript.lyshark.com/down/LyScript.zip)
